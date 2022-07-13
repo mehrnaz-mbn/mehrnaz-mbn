@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehrnaz
-- 👀 I’m interested in UI/UX development, web design and software interface using HTML, CSS, JavaScript and PHP 
+- 👀 I’m interested in UI/UX development, web design and software interface using HTML, CSS, JavaScript, React JS and PHP. 
 - 🌱 I’m currently learning Software development using python
 - 💞️ I’m looking to collaborate on frontend programing
 - 📫reach me :  mehr89.barzegar@gmail.com
